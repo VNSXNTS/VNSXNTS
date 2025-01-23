@@ -2,9 +2,9 @@ Olá! 👋
 <br>
 Meu nome é Vinícius Santos da Silva e sou um entusiasta da programação, focado na área de Front End. Tenho uma paixão enorme por criar experiências web envolventes e funcionais.
 Atualmente, estou desenvolvendo projetos com:<br><br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"/><br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css"/><br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-js"/><br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-js"/>
 
 Estou em fase de aprendizagem, porém com muita vontade de aprender a cada dia.
 
