@@ -24,6 +24,8 @@ Aqui estão algumas das tecnologias que estou estudando e utilizando:
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VNSXNTS&layout=compact&theme=radical)
 
 ## Contato
-- 📧 Email: (vnsxnts@gmail.com)
+
+<a href="http://mail.google.com/mail/u/0/#inbox?compose=VpCqJQwCwQfJCbNGqmXJwTZRRwsDPjsLbKkPXkCwcSznDTFgrzXzXkbvqdSKPdSRZSNkpJ">
+📧 Email: (vnsxnts@gmail.com)</a>
 - 💼 LinkedIn:(https://www.linkedin.com/in/vinicius-santos-da-silva/)
 
