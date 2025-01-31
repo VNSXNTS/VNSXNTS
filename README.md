@@ -26,6 +26,7 @@ Aqui estão algumas das tecnologias que estou estudando e utilizando:
 ## Contato
 
 <a href="http://mail.google.com/mail/u/0/#inbox?compose=VpCqJQwCwQfJCbNGqmXJwTZRRwsDPjsLbKkPXkCwcSznDTFgrzXzXkbvqdSKPdSRZSNkpJ">
-📧 Email: (vnsxnts@gmail.com)</a>
-- 💼 LinkedIn:(https://www.linkedin.com/in/vinicius-santos-da-silva/)
+📧 Email</a>
+<a href="https://www.linkedin.com/in/vinicius-santos-da-silva/">
+- 💼 Linkedin</a>
 
